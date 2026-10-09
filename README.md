@@ -11,7 +11,7 @@ The goal is to transform raw data into meaningful insights using Python, SQL, an
 2. Dataset
 
 * **Dataset Name:** [customer_shopping_behavior]
-* **File Format:** CSV / Excel
+* **File Format:** CSV 
 * **Data Source:** [kaggle]
 * **Description:** The dataset contains information related to [ sales, customers, transactions, or products].
 
